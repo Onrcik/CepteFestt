@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456918728563",
+    "firebase_url": "https://ceptefestt-d005a.firebaseio.com",
+    "project_id": "ceptefestt-d005a",
+    "storage_bucket": "ceptefestt-d005a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456918728563:android:27a114b06137ff7c06cf06",
+        "android_client_info": {
+          "package_name": "com.example.ceptefestt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456918728563-qj010dhq824ukodd2k04mt68lvqvvk8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ceptefestt",
+            "certificate_hash": "de15e65b69bf986549e3f5fb949cfa317d962143"
+          }
+        },
+        {
+          "client_id": "456918728563-cfsrh1k44l0giiarcme6pdsi7mrg17jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4Bq6qjMgDAm7DgFkYCV_fUDF3rhONa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456918728563-cfsrh1k44l0giiarcme6pdsi7mrg17jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

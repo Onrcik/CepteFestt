@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF200"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout12"
+        android:layout_width="390dp"
+        android:layout_height="377dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/btn_giris"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="373dp"
+            app:srcCompat="@drawable/i" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_giris"
+        android:layout_width="380dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="52dp"
+        android:background="#536DFE"
+        android:text="GİRİŞ YAP"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout12" />
+
+    <Button
+        android:id="@+id/btn_kaydol"
+        android:layout_width="380dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginBottom="154dp"
+        android:background="#536DFE"
+        android:text="KAYDOL"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.548"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_giris"
+        app:layout_constraintVertical_bias="0.03" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
