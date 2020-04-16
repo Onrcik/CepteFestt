@@ -4,7 +4,7 @@ Mobil Uygulama
 # CepteFest Nedir?
 İnsanların günübirlik veya yatılı olarak gittikleri festival etkinliklerinde çok fazla cüzdan kaybetme, cüzdan hırsızlığı gibi olaylar olabiliyor
 yada eğlenirken dans ederken, kumsalda düşme şansı oluyor faket yaşadığımız bu zamanda telefon olmazsa olmazlarımız arasında elimizden düşürmediğimiz telefonumuzu
-neden cüzdan olarak kullanmayalım ki işte cepte fest hem etkinlik kurucusuna hemde kullanıcılarına büyük avantajlar sağlıyor.
+neden cüzdan olarak kullanmayalım ki işte ceptefest hem etkinlik kurucusuna hemde kullanıcılarına büyük avantajlar sağlıyor.
 
 # CepteFest kullanım alanları nedir ?
 Kullanıcıların programa kayıt olduktan sonra istedikleri kadar bakiye yüklemesi yapabilmesi ve etkinlik alanında olan bütün ürünlerin Qr kod okutma sistemiyle satın 
